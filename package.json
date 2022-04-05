@@ -11,6 +11,7 @@
     "webpack",
     "plugin"
   ],
+  "types": "typings.d.ts",
   "author": "visionary",
   "license": "ISC",
   "devDependencies": {
